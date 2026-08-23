@@ -6,14 +6,13 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 ---
 
 ## 📋 Trello Board Overview
-
-![Trello List 1](./Listscreenshot1.png)
-![Trello List 2](./Listscreenshot2.png)
-![Trello List 3](./Listscreenshot3.png)
-![Trello List 4](./Listscreenshot4.png)
-![Trello List 5](./Listscreenshot5.png)
-![Trello List 6](./Listscreenshot6.png)
-![Trello List 7](./Listscreenshot7.png)
+![Trello List 1](./Bug-Report-Screenshots/Listscreenshot1.png)
+![Trello List 2](./Bug-Report-Screenshots/Listscreenshot2.png)
+![Trello List 3](./Bug-Report-Screenshots/Listscreenshot3.png)
+![Trello List 4](./Bug-Report-Screenshots/Listscreenshot4.png)
+![Trello List 5](./Bug-Report-Screenshots/Listscreenshot5.png)
+![Trello List 6](./Bug-Report-Screenshots/Listscreenshot6.png)
+![Trello List 7](./Bug-Report-Screenshots/Listscreenshot7.png)
 
 ---
 
