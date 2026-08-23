@@ -1,11 +1,11 @@
-#  Bug Reports - Swag Labs (SauceDemo)
+# 🐛 Bug Reports - Swag Labs (SauceDemo)
 
-## Project Description
+## 📌 Project Description
 This repository contains comprehensive Quality Assurance (QA) documentation and defect reports for the **Swag Labs (SauceDemo)** e-commerce application under `problem_user` scenarios.
 
 ---
 
-##  Trello Board Overview
+## 📋 Trello Board Overview
 
 ![Trello List 1](./Listscreenshot1.png)
 ![Trello List 2](./Listscreenshot2.png)
@@ -17,7 +17,7 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 
 ---
 
-## Bug List Summary
+## 📑 Bug List Summary
 
 | ID | Bug Title | Severity | Priority |
 |---|---|---|---|
@@ -31,7 +31,7 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 
 ---
 
-##  Detailed Bug Reports
+## 🔍 Detailed Bug Reports
 
 ### BUG-01: Home Page - All products display the same image
 * **Description:** Every product listed on the inventory page displays the exact same image (dog photo) regardless of the product type.
@@ -43,9 +43,9 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** All products render with the same dog picture (`sl-404.jpg`).
 
 **Screenshots:**
-![BUG-01 Image 1](./bug-01-same-images.png)
-![BUG-01 Image 2](./bug-01-same-images.png2)
-![BUG-01 Image 3](./bug-01-same-images.png3)
+![BUG-01 Image 1](./bug-01-same-images.png.png)
+![BUG-01 Image 2](./bug-01-same-images.png2.png)
+![BUG-01 Image 3](./bug-01-same-images.png3.png)
 
 ---
 
@@ -60,13 +60,12 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** The price changes dynamically to an incorrect value on the details page.
 
 **Screenshots:**
-![BUG-02 Image 1](./bug-02-price-change.png)
-![BUG-02 Image 2](./bug-02-price-change.png1)
-![BUG-02 Image 3](./bug-02-price-change.png2)
-![BUG-02 Image 4](./bug-02-price-change.png3)
-![BUG-02 Image 5](./bug-02-price-change.png4)
-![BUG-02 Image 6](./bug-02-price-change.png5)
-![BUG-02 Image 7](./bug-02-price-change.png6)
+![BUG-02 Image 1](./bug-02-price-change.png1.png)
+![BUG-02 Image 2](./bug-02-price-change.png2.png)
+![BUG-02 Image 3](./bug-02-price-change.png3.png)
+![BUG-02 Image 4](./bug-02-price-change.png4.png)
+![BUG-02 Image 5](./bug-02-price-change.png5.png)
+![BUG-02 Image 6](./bug-02-price-change.png6.png)
 
 ---
 
@@ -81,9 +80,9 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** The button stays as "Remove" and the item remains in the cart.
 
 **Screenshots:**
-![BUG-03 Image 1](./bug-03-remove-button.png1)
-![BUG-03 Image 2](./bug-03-remove-button.png2)
-![BUG-03 Image 3](./bug-03-remove-button.png3)
+![BUG-03 Image 1](./bug-03-remove-button.png1.png)
+![BUG-03 Image 2](./bug-03-remove-button.png2.png)
+![BUG-03 Image 3](./bug-03-remove-button.png3.png)
 
 ---
 
@@ -98,9 +97,9 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** The button remains stuck as "Add to cart" and no action occurs.
 
 **Screenshots:**
-![BUG-04 Image 1](./bug-04-add-to-cart.png)
-![BUG-04 Image 2](./bug-04-add-to-cart.png2)
-![BUG-04 Image 3](./bug-04-add-to-cart.png3)
+![BUG-04 Image 1](./bug-04-add-to-cart.png.png)
+![BUG-04 Image 2](./bug-04-add-to-cart.png2.png)
+![BUG-04 Image 3](./bug-04-add-to-cart.png3.png)
 
 ---
 
@@ -115,10 +114,10 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** User lands on a page displaying **404 - Page Not Found**.
 
 **Screenshots:**
-![BUG-05 Image 1](./bug-05-about-404.png)
-![BUG-05 Image 2](./bug-05-about-404.png2)
-![BUG-05 Image 3](./bug-05-about-404.png3)
-![BUG-05 Image 4](./bug-05-about-404.png4)
+![BUG-05 Image 1](./bug-05-about-404.png.png)
+![BUG-05 Image 2](./bug-05-about-404.png2.png)
+![BUG-05 Image 3](./bug-05-about-404.png3.png)
+![BUG-05 Image 4](./bug-05-about-404.png4.png)
 
 ---
 
@@ -132,10 +131,10 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** The list remains static and no reordering takes place.
 
 **Screenshots:**
-![BUG-06 Image 1](./bug-06-sorting-filter.png)
-![BUG-06 Image 2](./bug-06-sorting-filter.png2)
-![BUG-06 Image 3](./bug-06-sorting-filter.png3)
-![BUG-06 Image 4](./bug-06-sorting-filter.png4)
+![BUG-06 Image 1](./bug-06-sorting-filter.png.png)
+![BUG-06 Image 2](./bug-06-sorting-filter.png2.png)
+![BUG-06 Image 3](./bug-06-sorting-filter.png3.png)
+![BUG-06 Image 4](./bug-06-sorting-filter.png4.png)
 
 ---
 
@@ -150,6 +149,6 @@ This repository contains comprehensive Quality Assurance (QA) documentation and 
 * **Actual Result:** First Name input is truncated down to a single character (e.g., `a`).
 
 **Screenshots:**
-![BUG-07 Image 1](./bug-07-lastname-clears-firstname.png)
-![BUG-07 Image 2](./bug-07-lastname-clears-firstname.png%202)
-![BUG-07 Image 3](./bug-07-lastname-clears-firstname.png3)
+![BUG-07 Image 1](./bug-07-lastname-clears-firstname.png.png)
+![BUG-07 Image 2](./bug-07-lastname-clears-firstname.png%202.png)
+![BUG-07 Image 3](./bug-07-lastname-clears-firstname.png3.png)
