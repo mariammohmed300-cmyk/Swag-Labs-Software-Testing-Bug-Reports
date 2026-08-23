@@ -96,3 +96,6 @@ This document contains all identified bugs and defect reports found during testi
   3. Click and type in **Last Name** (e.g., `123`).
 * **Expected Result:** Both input fields retain their original entered text.
 * **Actual Result:** The First Name input is truncated to a single character (e.g., `a`).
+## Trello Board Screenshots
+
+![Trello Board Overview](./Bug%20Report%20screen%20shots/your_image_name.png)
